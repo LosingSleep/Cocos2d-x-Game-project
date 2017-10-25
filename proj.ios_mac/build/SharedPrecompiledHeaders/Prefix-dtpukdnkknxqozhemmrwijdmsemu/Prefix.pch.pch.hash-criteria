@@ -1,0 +1,41 @@
+-x
+c++
+-arch
+x86_64
+-std=c++11
+-stdlib=libc++
+-gmodules
+-fpascal-strings
+-O0
+-DUSE_FILE32API
+-DCC_TARGET_OS_MAC
+-DCOCOS2D_DEBUG=1
+-DCC_ENABLE_CHIPMUNK_INTEGRATION=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk
+-fasm-blocks
+-mmacosx-version-min=10.7
+-g
+-index-store-path
+/Users/chenhui/Library/Developer/Xcode/DerivedData/NoOneSurvival-furxmvzupozjdngzlddrhexpdufj/Index/DataStore
+-I/Users/chenhui/Desktop/Study Files/c++ final project/NoOneSurvival/proj.ios_mac/build/Debug/include
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/base
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/physics
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/math
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/2d
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/ui
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/network
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/audio/include
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/editor-support
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/extensions
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/external
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/external/chipmunk/include/chipmunk
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/platform/mac
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/external/glfw3/include/mac
+-F/Users/chenhui/Desktop/Study Files/c++ final project/NoOneSurvival/proj.ios_mac/build/Debug
+x86_64-apple-darwin16.7.0
+"4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.37)"
+SDK_PRODUCT_BUILD_VERSION=17A360
+17A360

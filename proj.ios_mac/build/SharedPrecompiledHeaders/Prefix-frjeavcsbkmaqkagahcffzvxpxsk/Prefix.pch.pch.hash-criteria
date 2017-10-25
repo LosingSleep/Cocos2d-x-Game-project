@@ -1,0 +1,41 @@
+-x
+objective-c
+-arch
+x86_64
+-gmodules
+-fpascal-strings
+-O0
+-DUSE_FILE32API
+-DCC_TARGET_OS_IPHONE
+-DCOCOS2D_DEBUG=1
+-DCC_ENABLE_CHIPMUNK_INTEGRATION=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk
+-fasm-blocks
+-mios-simulator-version-min=6.0
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-index-store-path
+/Users/chenhui/Library/Developer/Xcode/DerivedData/NoOneSurvival-furxmvzupozjdngzlddrhexpdufj/Index/DataStore
+-I/Users/chenhui/Desktop/Study Files/c++ final project/NoOneSurvival/proj.ios_mac/build/Debug-iphonesimulator/include
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/base
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/physics
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/math
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/2d
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/ui
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/network
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/audio/include
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/editor-support
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/extensions
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/external
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/external/chipmunk/include/chipmunk
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/platform/ios
+-I/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/platform/ios/Simulation
+-F/Users/chenhui/Desktop/Study Files/c++ final project/NoOneSurvival/proj.ios_mac/build/Debug-iphonesimulator
+x86_64-apple-darwin16.7.0
+"4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.37)"
+SDK_PRODUCT_BUILD_VERSION=15A372
+15A372

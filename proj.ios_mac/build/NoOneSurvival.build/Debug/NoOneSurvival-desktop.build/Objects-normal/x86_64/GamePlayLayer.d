@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/GamePlayLayer.cpp \
+  /Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/audio/include/SimpleAudioEngine.h \
+  /Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/cocos/audio/include/Export.h \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/GamePlayLayer.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/TowerPanleLayer.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/GameManager.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/Tower.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/Enemy.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/Bullet.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/GroupEnemy.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/TowerOperateLayer.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/LoadLevelInfo.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/MultiDirTower.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/AttackTower.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/ColdTower.hpp \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/LoseScene.h \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/WinScene.h \
+  /Users/chenhui/Documents/CocosProjects/NoOneSurvival/Classes/LevelScene.h

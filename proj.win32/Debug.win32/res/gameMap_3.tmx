@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="10" tilewidth="64" tileheight="64" nextobjectid="13">
+ <tileset firstgid="1" name="mapResouce" tilewidth="64" tileheight="64" spacing="1" margin="1" tilecount="1" columns="1">
+  <image source="mapResouce.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="2" name="mapResouce" tilewidth="64" tileheight="64" tilecount="4" columns="2">
+  <image source="mapResouce.png" width="128" height="128"/>
+  <tile id="0">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="canTouch" value="0"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="canTouch" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Foreground" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYWBgYBkAzEplzISE0cWI0cuKRS+x9tJLLxMRmJBdlIYpsRgA8KYCgA==
+  </data>
+ </layer>
+ <objectgroup name="Object">
+  <object id="1" name="0" x="0" y="608"/>
+  <object id="2" name="1" x="166" y="610"/>
+  <object id="3" name="2" x="164" y="483"/>
+  <object id="4" name="3" x="481" y="485"/>
+  <object id="5" name="4" x="485" y="228"/>
+  <object id="6" name="5" x="352" y="226"/>
+  <object id="7" name="6" x="352" y="483"/>
+  <object id="8" name="7" x="673" y="483"/>
+  <object id="9" name="8" x="671" y="227"/>
+  <object id="10" name="9" x="739" y="228"/>
+  <object id="11" name="10" x="739" y="174"/>
+ </objectgroup>
+</map>

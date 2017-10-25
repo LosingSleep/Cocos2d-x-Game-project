@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>levelInfo</key>
+	<dict>
+		<key>money</key>
+		<integer>600</integer>
+		<key>currLevel</key>
+		<string>levelInfo_1.plist</string>
+		<key>nextLevel</key>
+		<string>levelInfo_2.plist</string>
+		<key>group</key>
+		<dict>
+			<key>1</key>
+			<dict>
+				<key>type1Num</key>
+				<integer>0</integer>
+				<key>type1Hp</key>
+				<integer>0</integer>
+				<key>type2Num</key>
+				<integer>20</integer>
+				<key>type2Hp</key>
+				<integer>20</integer>
+				<key>type3Num</key>
+				<integer>0</integer>
+				<key>type3Hp</key>
+				<integer>0</integer>
+			</dict>
+			<key>2</key>
+			<dict>
+				<key>type1Num</key>
+				<integer>0</integer>
+				<key>type1Hp</key>
+				<integer>100</integer>
+				<key>type2Num</key>
+				<integer>1</integer>
+				<key>type2Hp</key>
+				<integer>300</integer>
+				<key>type3Num</key>
+				<integer>0</integer>
+				<key>type3Hp</key>
+				<integer>150</integer>
+			</dict>
+		</dict>
+	</dict>
+	<key>resources</key>
+	<dict>
+		<key>map</key>
+		<string>gameMap_2.tmx</string>
+		<key>background</key>
+		<string>GameScene.jpg</string>
+	</dict>
+</dict>
+</plist>
