@@ -92,7 +92,8 @@ GameManager: 由于游戏时子弹与敌人都是实时变化的，需要有一�
 
 
 ### 三、构建工具
-Xcode7.3.1
+Xcode7.3.1 
+
 Microsoft Visual Studio 2015
 
 
