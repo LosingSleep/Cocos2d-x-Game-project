@@ -1,5 +1,5 @@
 # NoOneSurvival
-#### C++ final project  based on cocos2d-x
+#### C++ project  based on cocos2d-x
 
 
 ### 一、需求分析
